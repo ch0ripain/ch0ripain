@@ -16,7 +16,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,mysql,postgres,cs,dotnet,angular,react,redux,html,css,tailwind,threejs,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,mysql,postgres,cs,dotnet,angular,nextjs,react,redux,html,css,bootstrap,tailwind,threejs,figma,git)](https://skillicons.dev)
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ch0ripain&theme=shadow_blue&hide_border=true" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0ripain&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
